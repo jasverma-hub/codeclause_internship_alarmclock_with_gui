@@ -25,6 +25,7 @@ Before we start building any project, the primary step is to import all the impo
 
 Embarking on this Python project with Tkinter and datetime is a fantastic opportunity to learn and create something meaningful. By following the steps outlined, you'll delve into the world of GUI development and time manipulation, gaining valuable experience along the way.
 
+<img src = "GUI_Output.png">
 
 
 
